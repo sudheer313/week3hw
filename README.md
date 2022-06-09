@@ -6,13 +6,13 @@ Password generator website
 JavaScript 64.7%   CSS 24.1%   HTML 11.2%
 
 # Mock-up
-![Demo of password generator](.\Assets\images\sample1.png)
+![Demo of password generator demo1](./Assets/images/sample1.png)
 
-![Demo of password generator](.\Assets\images\sample2.png)
+![Demo of password generator demo2](./Assets/images/sample2.png)
 
 # Link to live site
 
-![Password Generator](https://sudheer313.github.io/week3hw/)
+(https://sudheer313.github.io/week3hw/)
 
 ## Reason why I made this Password Generator
 I created this to display my JavaScript Skills. On this Website, when the user clicks "Generate Password" button will display a series if prompts to the user. The user can select the length of password from 8 and 128 characters and can choose characters of uppercase, lowercase, numbers or symbols.
