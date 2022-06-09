@@ -6,9 +6,15 @@ Password generator website
 JavaScript 64.7%   CSS 24.1%   HTML 11.2%
 
 # Mock-up
+
+My demo scrren shots
 ![Demo of password generator demo1](./Assets/images/sample1.png)
 
 ![Demo of password generator demo2](./Assets/images/sample2.png)
+
+![Demo of password generator demo2](./Assets/images/sample3.png)
+
+
 
 # Link to live site
 
