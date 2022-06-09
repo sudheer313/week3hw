@@ -17,7 +17,8 @@ I also presented with a responsive layout that adapts to my view port
 
 ## Mock-up
 The following animation shows the web application's appearance and functionality:
-![hi](.\Assets\sample.1.png)
+![hi](.\Assets\images\sample.1.png)
+![hi](.\Assets\images\sample.2.png)
 ## Author
 [@sudheerk](https://www.twitter.com/sudheerkandula)
 
