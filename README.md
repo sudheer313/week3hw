@@ -1,33 +1,24 @@
-# week3hw
-## User Story
-```
+# JavaScript Password Generator
 
-I have designed a Webpage which displays my portfolio of my projects using HTML and CSS.
-Such that I can be Job Ready.
+Password generator website
 
-```
-## Criteria
+# Technologies Used
+JavaScript 64.7%   CSS 24.1%   HTML 11.2%
 
-I created a portfolio of my previuos work projects.
-I deloyed this application in Git Hub and when a employee clicks on my work portfolio it takes to my deployed apllication.
-My Navition links take to the corresponding section.
-My first application image is larger to another presented images.
-This webpage can be seen in various screens and devices aswell.
-I also presented with a responsive layout that adapts to my view port
+# Mock-up
+![Demo of password generator](.\Assets\images\sample1.png)
 
-## Mock-up
-The following animation shows the web application's appearance and functionality:
-![hi](.\Assets\images\sample.1.png)
-![hi](.\Assets\images\sample.2.png)
-## Author
-[@sudheerk](https://www.twitter.com/sudheerkandula)
+![Demo of password generator](.\Assets\images\sample2.png)
 
-My Git HUb repo
-sudheer313/week2hw
-## Sample Website
-My Live Url< https://sudheer313.github.io/week2hw/>
- 
- ## Folder Structure
- The index.html and readme files are in root folder
-The assets folder contains the CSS and  all images and icons used, in their respective folders.
-My repository contains unique name and also read me file and loads properly.
+# Link to live site
+
+![Password Generator](https://sudheer313.github.io/week3hw/)
+
+## Reason why I made this Password Generator
+I created this to display my JavaScript Skills. On this Website, when the user clicks "Generate Password" button will display a series if prompts to the user. The user can select the length of password from 8 and 128 characters and can choose characters of uppercase, lowercase, numbers or symbols.
+
+## What I learned
+I learned many important fundementals of javascript creating this project.  I used a combination of objects, arrays, function calls, while statements and if statements.  I learned how to call functions, return values and many different manipulations that can be performed on objects, arrays and numbers like Math.Floor, Math.random and isFinite.  I also learned commonly used operators like (!) and (===). I really enjoyed my time learning and creating this project!
+
+## Challenges 
+There were a few challenges I ran into making this password generator.  I had a hard time trying to figure out how to ensure the user input a password length between 8 and 128 characters as well as ensuring the user entered an integer.  By searching documentation and not giving up I was able to use if/else statements and isFinite and was able to overcome those challenges.
